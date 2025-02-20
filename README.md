@@ -1,4 +1,4 @@
-# myTF2configs
-litteraly just my tf2 configs.
+# myTF2config
+litteraly just my tf2 config.
 
 tf/[foldername]
